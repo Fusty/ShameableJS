@@ -1,4 +1,4 @@
 # ShameableJS
-A user-shaming library for cultivating a guild-driven user experience
+A user-shaming library for cultivating a guilt-driven user experience
 
 ## Coming Soon
